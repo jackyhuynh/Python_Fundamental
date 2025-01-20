@@ -5,5 +5,5 @@ name = "root"
 version = "0.0.0"
 description = "flask template"
 [tool.poetry.dependencies]
-flask = "==1.1.4"
+flask = "==3.1.0"
 python = "^3.8"
